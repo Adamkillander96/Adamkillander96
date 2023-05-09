@@ -1,7 +1,5 @@
-## Frontend developer & techical web analyst 👋
+## Frontend developer 👋
 
-- 💻 I love Vue.js, Nuxt, Netlify & Firebase
+- 💻 I love Vue.js and Nuxt 3 
 - 💼 My [website](https://adamkillander.se/en)
-- 📫 Reach me on [Twitter](https://twitter.com/adam_killander) or [LinkedIn](https://www.linkedin.com/in/adam-killander-a91aa0103/)
-- ⚡ Fun fact: I glued my foot to the floor once
-
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adam-killander-a91aa0103/)
